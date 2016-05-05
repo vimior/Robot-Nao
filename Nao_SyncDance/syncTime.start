@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# 仅仅用于开机自动运行syncTime.py进行同步时间
+
+/usr/bin/python /home/nao/dance/syncTime.py
