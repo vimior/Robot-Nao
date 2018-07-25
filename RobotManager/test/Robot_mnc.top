@@ -1,0 +1,6 @@
+topic: ~Robot_topic()
+language: mnc
+
+u:(["英语"]) "好的，马上为您切换到英文模式 ^pCall(ALDialog.setLanguage('English'))"
+
+u:(["你好"]) "你好，我是机器人零号"

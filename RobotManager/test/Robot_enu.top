@@ -1,0 +1,6 @@
+topic: ~Robot_topic()
+language: enu
+
+u:(["Chinese"]) "OK，Switch to Chinese mode for you at once ^pCall(ALDialog.setLanguage('Chinese'))"
+u:(["hello"]) "hello, i am nao"
+
